@@ -111,9 +111,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
   location         : "Atlanta, GA"
-  email            : "suyal@gatech.edu"
+  email            :
   links:
-    - label: "Email"
+    - label: "suysal@gatech.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:suysal@gatech.edu
     - label: "Website"
