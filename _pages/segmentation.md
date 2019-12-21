@@ -4,7 +4,7 @@ permalink: /segmentation/
 title: "Segmentation Examples"
 author_profile: true
 header:
-  image: "/images/background.HEIC"
+  image: "/images/background.jpg"
 ---
  some examples for different segmentation methods
 
@@ -13,4 +13,3 @@ header:
    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
- 
