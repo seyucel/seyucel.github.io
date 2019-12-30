@@ -4,7 +4,7 @@ permalink: /segmentation/
 title: "Segmentation Examples"
 author_profile: true
 header:
-  image: "/images/background.jpg"
+  image: "/images/IMG_3759.jpg"
 ---
  some examples for different segmentation methods
 
